@@ -1,5 +1,3 @@
 Demo Git Class
 
 April Batch students
-
-On beta branch
